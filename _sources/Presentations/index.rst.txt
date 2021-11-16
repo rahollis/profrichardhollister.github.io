@@ -1,0 +1,36 @@
+
+=============
+Presentations
+=============
+
+*Inverse problems for polynomial and rational matrices* `slides <../_static/ICIAM-2019-symposium-talk-RH.pdf>`_
+
+This was an invited talk for the Nonlinear and Multiparamter Eigenvalue Problems mini-symposium at the 2019
+International Congress on Industrial and Applied Mathematics.  The talk outlines the procedures I developed
+to construct a rational matrix realization for any given list of rational structural data in such a way that
+the structural data can be recovered from the realization with minimal effort.
+
+*Recent advances on an inverse problem for rational matrices* `slides <../_static/ICIAM-2019-contributed-talk-RH.pdf>`_
+
+A contributed talk at 2019 International Congress on Industrial and Applied Mathematics, this talk served as
+an introduction to rational eigenvalue problems and discussed the inverse problem mentioned in my mini-
+symposium talk described above.
+
+*An Introduction to Nonlinear Eigenvalue Problems* `slides <../_static/Intro-nonlinear-eig-probs.pdf>`_
+
+I gave this talk for a colloquium at Colorado Mesa University during an enjoyable visit to their campus.
+The talk was meant to be a survey of eigenvalue problems leading up to the polynomial and rational 
+eigenvalue problems that are the focus of my research.  Inverse problems were briefly mentioned.
+
+*Exterior algebra and compound matrices* `slides <../_static/The-exterior-power-of-linear-maps.pdf>`_
+
+In the Spring of 2018, while I was still a graduate student at Western Michigan University, I started a 
+general math and math education seminar for graduate students called the Grad Math Talk Series.  This was the
+inaugural talk featuring two constructs that most graduate students are not very familiar with, if at all.
+The link between the exterior algebra and compound matrices is explicitly described and proved in the talk.
+
+*Canonical matrices* `slides <../_static/Canonical-decompositions.pdf>`_
+
+This talk was the first talk of the second semester of the Grad Math Talk Series, the seminar I started as a
+graduate student.  This second talk I gave for the seminar was an exploration of what it means to be
+canonical using the examples I am most familiar with from my own area of expertise.

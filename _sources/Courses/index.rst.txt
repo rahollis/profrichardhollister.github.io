@@ -1,0 +1,36 @@
+
+=======
+Courses
+=======
+
+Current Courses
+---------------
+
+*MTH 337 - Intro to Scientific and Mathematical Computing*  `website <https://rahollis.github.io>_`
+
+This is a project based course that introduces
+mathematics students to the tools and techniques used in scientific and mathematical computing.  The course
+uses Python as a platform and focuses on about 8 independent projects over the semester.  Students are
+encouraged to work in groups, but each student must turn in their own original project report as a Jupyter
+notebook.
+
+*MTH 420 - Advanced Linear Algebra* `syllabus <../_static/syllabus-420-s22.pdf>`_
+
+This course is meant to be a second course in linear algbrea for undergraduates and focuses on theory 
+proof.  Advanced topics include matrix factorizations, equivalence relations and canonical representations,
+quadratic forms and positive (semi-) definite matrices, and select topics from numerical linear algebra.
+
+Previous Courses
+----------------
+
+*MTH 309 - Intro to Linear Algebra* `syllabus <../_static/syllabus-309-f21.pdf>`_
+
+This is a your standard introductory course on linear algebra.  Topics ranged from systems of equations
+and matrix algebra to vector spaces and linear transformations to orthogonal projections and least squares.
+
+*MTH 122 - Survey of Calculus and Its Applications II* `syllabus <../_static/syllabus-122-f20.pdf>`_
+
+The second semester in a two semester calculus sequence for life sciences and non-STEM majors.  The
+focus of the course is on the applications of calculus to real world problems along with the computational
+tools and techniques needed to solve those problems.  Topics included optimization and lagrange multipliers,
+integration techniques and work problems, and numerical solutions to differential equations.

@@ -1,0 +1,83 @@
+
+=========================
+Research and Publications
+=========================
+
+
+**Current Work**
+----------------
+
+*"Quasi-Triangularizations of Matrix Polynomials over Arbitrary Fields"*
+
+In their 2013 paper in *Linear Algebra and Its Applications*, Taslaman, Tisseur, and Zaballa show that any regular matrix polynomial :math:`P(\lambda)` over an
+algebraically closed field is unimodularly equivalent to a triangular matrix polynomial of the same degree.
+When :math:`P(\lambda)` is real,they also show that there is a real quasi-triangular matrix polynomial of the
+same degree that is unimodularly equivalent to :math:`P(\lambda)`, in which the diagonal blocks are of size
+at most :math:`2 \times 2`. This paper generalizes these results to regular matrix polynomials 
+:math:`P(\lambda)` over arbitrary fields :math:`\mathbb{F}`, showing that any such :math:`P(\lambda)` can be
+quasitriangularized to a matrix polynomial over F of the same degree, in which the largest diagonal block 
+size is bounded by the highest degree appearing among all of the :math:`\mathbb{F}`-irreducible factors in 
+the Smith form for :math:`P(\lambda)`.
+
+
+**Previous Work**
+-----------------
+
+*"Inverse Problems for Polynomial and Rational Matrices"*
+
+Inverse problems have long been studied in mathematics not only because there are
+many applications in science and engineering, but also because they yield new insight into
+the beauty of mathematics. Central to the subject of linear algebra is the eigenvalue problem:
+given a matrix, and its eigenvalues (numerical invariants). Eigenvalue problems play a key
+role in almost every field of scientific endeavor from calculating the vibrational modes of a
+molecule to modeling the spread of an infectious disease, and so have been studied extensively
+since the time of Euler in the 18th century.
+
+If a typical matrix eigenvalue problem asks for the eigenvalues of a given matrix, an
+inverse eigenvalue problem asks for a matrix whose eigenvalues are a given list of numbers.
+For matrices over an algebraically closed field, the inverse eigenvalue problem is completely
+and transparently solved by the Jordan canonical form. If the field is not algebraically closed,
+there are similar, albeit more involved, solutions, a prime example of which is the real Jordan
+form when the field is the real numbers.
+
+Eigenvalue and inverse eigenvalue problems go beyond just matrices with fixed scalar
+entries. They have been studied for matrix pencils, which are matrices whose entries are
+degree-one polynomials with coeficients from a field. A polynomial matrix is a matrix whose
+entries are polynomials with coficients from a field. The story of eigenvalues for polynomial
+matrices (of which matrix pencils are a special case) is more complicated because of the
+possibility of an infinite eigenvalue. In addition, for singular polynomial matrices, there
+are invariants that characterize the left and right null spaces called minimal indices. The
+collection of all this data (finite and infinite eigenvalues together with minimal indices) is
+known as the structural data of the polynomial matrix.
+
+In this dissertation, the inverse structural data problem for polynomial matrices is
+considered and solved. We begin with the history of this inverse problem, including known
+results and applications from the literature. Then a new solution is given that is sparse and
+transparently reveals the structural data in much the same way that the Jordan canonical
+form transparently reveals the structural data of a scalar matrix. The dissertation concludes
+by discussing the inverse problem for rational matrices (matrices whose entries are rational
+functions over a field) and presenting a solution adapted from the solution for the polynomial
+matrix inverse problem.
+
+Dissertation in fulfilment of the requirements for the degree of Doctor of Philosophy in Mathematics at
+Western Michigan University in 2020.
+
+*"Van Dooren's Index Sum Theorem and Rational Matrices with Prescribed Structural Data"*
+
+The structural data of any rational matrix :math:`R(\lambda)`, i.e., the structural indices of its poles and zeros
+together with the minimal indices of its left and right nullspaces, is known to satisfy a simple condition 
+involving certain sums of these indices. This fundamental constraint was first proved by Van Dooren in 
+1978; here we refer to this result as the rational index sum theorem. An analogous result for polynomial 
+matrices has been independently discovered (and rediscovered) several times in the past three decades. In 
+this paper we clarify the connection between these two seemingly different index sum theorems, describe a 
+little bit of the history of their development, and discuss their curious apparent unawareness of each 
+other. Finally, we use the connection between these results to solve a fundamental inverse problem for 
+rational matrices--for which lists :math:`\mathcal{L}` of prescribed structural data does there exist some rational 
+matrix :math:`R(\lambda)` that realizes exactly the list :math:`\mathcal{L}`? We show that Van Dooren's condition is the only 
+constraint on rational realizability; that is, a list :math:`\mathcal{L}` is the structural data of some rational 
+matrix :math:`R(\lambda)` if and only if :math:`\mathcal{L}` satisfies the rational index sum condition.
+
+Published in SIAM Journal on Matrix Analysis and Applications in 2019.
+
+Read More: <https://epubs.siam.org/doi/abs/10.1137/18M1171370>_
+

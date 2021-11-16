@@ -1,0 +1,17 @@
+.. _contents:
+
+Table of contents
+=========================
+
+Contents:
+~~~~~~~~~~~~
+
+
+.. toctree::
+   :maxdepth: 1
+
+   About Richard <About/index>
+   Research <Research/index>
+   Presentations <Presentations/index>
+   Courses <Courses/index>
+   

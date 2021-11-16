@@ -1,0 +1,103 @@
+
+=================
+Richard Hollister
+=================
+
+| Visiting Assistant Professor
+| Department of Mathematics
+| University at Buffalo
+| `rahollis@buffalo.edu <rahollis@buffalo.edu>`_
+
+Education
+---------
+
+| **Ph.D. in Mathematics**,
+| Thesis title: *Inverse Problems for Polynomial and Rational Matrices*,
+| Western Michigan University, Summer 2020.
+
+| **M.S. in Applied and Computational Mathematics**,
+| Western Michigan University, Spring 2015.
+
+| **B.S. with a double major in Mathematics and Chemistry**,
+| Western Michigan University, Spring 2013.
+
+Professional Positions Held
+---------------------------
+
+* Visiting Assistant Professor of Mathematics, University at Buffalo, Fall 2020 - present.
+* Graduate Student Teaching Assistant, Department of Mathematics, Western Michigan University, Fall 2013 - Spring 2020.
+
+Honors and Awards
+-----------------
+
+* Yousef Alavi Doctoral Student Award in recognition of excellence in research, Department of Mathematics, Western Michigan University, Spring 2019.
+* Graduate Student Service Award in recognition of outstanding service to the Math Department, Western Michigan University, Spring 2017 and 2018.
+
+Research Interests
+------------------
+
+| Matrix Analysis and Linear Algebra with particular interest in
+* Polynomial and rational matrices,
+* Inverse eigenvalue problems,
+* Applications of polynomial and rational matrices to control and systems theory, engineering, and physics,
+* Computation of the structural data of polynomial and rational matrices.
+
+| Numerical Analysis and Numerical Linear Algebra with special interest in
+* Efficient and stable algorithms for computing the structural data of polynomial and rational matrices,
+* Numerically stable solutions to inverse problems in matrix analysis and linear algebra,
+* Exploiting matrix structure in algorithms,
+* Applications of linear algebra to computational tools in artificial intelligence and data science.
+
+Publications
+------------
+
+| For abstracts, click `here <Research/index.html>`_
+#. "Van Dooren's index sum theorem and rational matrices with prescribed structural data" [with L. Anguas, F. Dopico, and D.S. Mackey], *SIAM J. on Matrix Analysis and Applications*, Vol. 40, No. 2, pp. 720-738, 2019.
+#. "Quasi-triangularizations of polynomial matrices over an arbitrary field" [with L. Anguas, F. Dopico, and D.S. Mackey], *in preparation*.
+#. "Transparent matrix polynomials with prescribed eigenstructure" [with D.S. Mackey], *in preparation*.
+
+Presentations
+-------------
+
+| *Invited talks*
+#. "Inverse problems for polynomial and rational matrices", *Mini-symposium on nonlinear and multiparameter eigenvalue problems*, International Congress on Industrial and Applied Mathematics, Valencia Spain, July 16 2019.
+
+| *Professional Conferences*
+#. "Recent advances on an inverse problem for rational matrices", *Contributed talk*, International Congress on Industrial and Applied Mathematics, Valencia Spain, July 15 2019.
+
+| *Seminars and Colloquia*
+#. "An Introduction to Nonlinear Eigenvalue Problems", *Colloquium*, Department of Mathematics, Colorado Mesa University, Spring 2020.
+#. "What is an ordinal?", *Graduate Student Seminar*, Department of Mathematics, Western Michigan University, Fall 2019.
+#. "Canonical matrices", *Graduate Student Seminar*, Department of Mathematics, Western Michigan University, Fall 2018.
+#. "Exterior algebra and compound matrices", *Graduate Student Seminar*, Department of Mathematics, Western Michigan University, Spring 2018.
+#. "Applications of knot theory to chemistry", *Applied Mathematics Seminar*, Department of Mathematics, Western Michigan University, Fall 2014.
+
+| *Other*
+#. "How big can a catenane be?", *Computational chemistry presentation*, Department of Chemistry, Western Michigan University, Spring 2015.
+#. "A mathematical look at undergraduate chemistry, parts I and II", *Math club and Pi Mu Epsilon public talk*, Western Michigan University, Fall 2012 and Spring 2013.
+
+| Click `here <Presentations/index.html>`_ to download slides.
+
+Teaching History
+----------------
+
+| *University at Buffalo*
+* MTH 337: Intro to Scientific and Mathematical Computing, Fall 2020, Spring/Fall 2021, Spring 2022, `course webpage <https://rahollis.github.io/>`_.
+* MTH 420: Advanced Linear Algebra, Spring 2022.
+* MTH 309: Intro to Linear Algebra, Spring 2021, Fall 2021.
+* MTH 122: Survey of Calculus and Its Applications II, Fall 2020.
+
+| *Western Michigan University*
+* Math 1230: Calculus II, Spring 2020.
+* Math 1100A: College Algebra I, accelerated, Fall 2019.
+* Math 3740: Differential Equations, Spring 2019.
+* Math 1180: Pre-calculus, Fall 2018.
+* Math 1090: Pre-algebra, Fall 2017, Spring 2018.
+* Math 1100: College Algebra I, Fall 2015, Spring 2016.
+
+Professional Affiliations
+-------------------------
+
+| `Society for Industrial and Applied Mathematics <https://www.siam.org/>`_
+| `American Mathematical Society <https://www.ams.org/home/page>`_
+| `International Linear Algbrea Society <https://ilasic.org/>`_
